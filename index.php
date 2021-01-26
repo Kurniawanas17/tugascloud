@@ -1,7 +1,7 @@
 <h2>Menghitung Luas & Keliling Lingkaran</h2>
 
 <p>Masukkan Jari Jari</p>
-<form action="hitung-lingkaran.php" method="post"> 
+<form action="index.php" method="post"> 
 	jari jari : <input type="text" name="jari2"><br> 
 	<input type="submit" name="submit" value="Hitung">
 </form> 
