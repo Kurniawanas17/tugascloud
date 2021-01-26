@@ -2,7 +2,10 @@
 
 <p>Masukkan Jari Jari</p>
 <form action="index.php" method="post"> 
-	jari jari : <input type="text" name="jari2"><br> 
+	jari jari : <input type="text" name="jari2"> 
+	<br> 
+	<br>  
+	<br> 
 	<input type="submit" name="submit" value="Hitung">
 </form> 
 
@@ -14,7 +17,9 @@ if(isset($_POST['submit'])){
 	$keliling_lingkaran = $phi*($jari2+$jari2);
  
 	echo "LUAS & KELILING LINGKARAN <br>"; 
-	echo "$luas_lingkaran <br>"; 
-	echo "$keliling_lingkaran <br>";
+	echo "<br>";
+	echo "<br>";
+	echo "LUAS LINGKARAN = $luas_lingkaran <br>"; 
+	echo "KELILING LINGKARAN = $keliling_lingkaran <br>";
 }
 ?>
