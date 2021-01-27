@@ -10,15 +10,11 @@
   <a class="back" href=""></a>  
   <table border="0" width="100%">  
    <tr>  
-    <td width="24%">  
-    <img src="images/stikomlogo.jpg" class="stikomlogo">  
+    <td width="24%">   
     </td>  
     <td width="76%">  
-    <p class="head">  
-    TUGAS PERANCANGAN WEB  
-    <br>BIODATA DIRI  
-    <br>Kurniawan As  
-    <br>217 280 064  
+    <p class="head">   
+    <br>BIODATA DIRI   
     </p>  
     </td>  
    </tr>  
@@ -36,7 +32,7 @@
     </tr>  
     <tr>  
     <th scope="row">Photo</th>  
-    <td><img src="images/photo.jpg" class="photo"></td>  
+    <td><img src="1.jpg" class="photo"></td>  
     </tr>  
     <tr>  
     <th scope="row">Riwayat</th>  
@@ -60,11 +56,11 @@
      <br>Alamat  
      </td>  
      <td>  
-     : I Made Pirman Dwiana  
+     : Kurniawan As  
      <br>: Laki-laki  
-     <br>: Tabanan, 18 September 1990  
-     <br>: Belum kawin  
-     <br>: Tabanan  
+     <br>: Pinrang, 01 Juli 1999  
+     <br>: Mahasiswa  
+     <br>: Kaboe  
      </td>       
      </tr>  
      <tr class="tbltitle">  
@@ -74,29 +70,23 @@
      </tr>  
      <tr class="tblcont">  
      <td>  
-     Sekolah Menengah Pertama  
-     <br>Sekolah Menengah Atas  
-     <br>Diploma III  
-     <br>Strata I  
+     SD 
+     <br>SMP  
+     <br>SMA/SMK  
+     <br>S1 
      </td>  
      <td>  
-     : SMP Negeri 2 Kerambitan  
-     <br>: SMA Negeri 1 Tabanan  
-     <br>: LP3I Bali  
-     <br>: STIKOM Bali  
+     : SDN 254 Tiroang  
+     <br>: SMPN 3 Pinrang  
+     <br>: SMKN 1 Pinrang
+     <br>: UMPAR 
      </td>       
      </tr>  
      <tr class="tbltitle">  
      <td colspan="2">  
      Tentang Saya  
      </td>                                     
-     </tr>  
-     <tr class="tblcont">  
-     <td colspan="2">  
-     Saya ini lahir di Tabanan, besar di Tabanan, waktu kuliah Diploma III tinggal di Dalung.  
-     Saat ini bekerja di Kuta jadi kuli/buruh bulanan. :D. Suka makan nasi, ngerokok kadang-kadang aja.  
-     </td>  
-     </tr>  
+     </tr>   
      <tr class="tbltitle">  
      <td colspan="2">  
      Kontak  
@@ -105,13 +95,13 @@
      <tr class="tblcont">  
      <td>  
      Email  
-     <br>Blogsite  
-     <br>Twitter                                          
+     <br>Instagram  
+     <br>Facebook                                          
      </td>  
      <td>  
-     : <a href="mailto:pirmandwiana@yahoo.com">pirmandwiana@yahoo.com</a>  
-     <br>: <a href="https://wrongtabs.wordpress.com">www.wrongtabs.wordpress.com</a>  
-     <br>: <a href=" http://twitter.com/pirmandwiana">@pirmandwiana</a>                      
+     : kaboecomunity@gmail.com 
+     <br>: kurniiawanas  
+     <br>: Kurniawan As                      
      </td>                                          
      </tr>                                                              
     </table>  
