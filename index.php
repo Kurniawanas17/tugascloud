@@ -1,8 +1,8 @@
 <html>  
  <head>  
   <title>Tugas Cloud Computing</title>  
-  <link rel="stylesheet" href="css/style.css" type="text/css" media="screen"/>  
-  <link rel="stylesheet" href="css/content.css" type="text/css" media="screen"/>  
+  <link rel="stylesheet" href="style.css" type="text/css" media="screen"/>  
+  <link rel="stylesheet" href="content.css" type="text/css" media="screen"/>  
   <link href="jquery-ui.css" rel="stylesheet">       
  </head>  
  <body>     
