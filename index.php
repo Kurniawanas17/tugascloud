@@ -6,7 +6,7 @@
 	<title>BIODATA DIRI</title>
 </head>
 <body background="bg.jpg">
-<h1 align="center">TUGAS 1 . [ WEB SEMANTIK ]</h1>
+<h1 align="center">BIODATA DIRI</h1>
 <hr>
 <br>
 <table width="745" border="0" cellpadding="5" cellspacing="0" align="center">
