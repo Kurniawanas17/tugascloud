@@ -14,7 +14,7 @@
     </td>  
     <td width="76%">  
     <p class="head">   
-    <br>BIODATA DIRI   
+BIODATA DIRI   
     </p>  
     </td>  
    </tr>  
@@ -39,7 +39,7 @@
     <td>                                
     <p><a href="#" id="dialog-link" class="ui-state-default ui-corner-all"><span class="ui-icon ui-icon-newwin"></span>Lihat Detail</a></p>                                     
     <!-- ui-dialog -->  
-    <div id="dialog" title="Biodata Detail (130030347)">  
+    <div id="dialog" title="Biodata Detail">  
     <p>  
     <table width="100%" border="0" class="dialogtbl">  
      <tr class="tbltitle">  
