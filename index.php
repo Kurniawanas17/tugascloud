@@ -112,7 +112,7 @@
    </tbody>  
   </table>  
   </div>  
-  <script src="external/jquery/jquery.js"></script>  
+  <script src="jquery.js"></script>  
   <script src="jquery-ui.js"></script>  
   <script>            
   $( "#dialog" ).dialog({  
