@@ -67,7 +67,7 @@
    border-bottom-left-radius:5px;  
  }  
  .table1 tfoot td{  
-   color: #9CD009;  
+   color: #5F95E1;  
    font-size:32px;  
    text-align:center;  
    padding:10px 0px;  
@@ -79,7 +79,7 @@
  .table1 tbody td{  
    padding:10px;  
    text-align:center;  
-   background-color:#DEF3CA;  
+   background-color:#5F95E1;  
    border: 2px solid #E7EFE0;  
    -moz-border-radius:2px;  
    -webkit-border-radius:2px;  
