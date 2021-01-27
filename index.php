@@ -24,7 +24,7 @@
    <tbody>  
     <tr>  
     <th width="24%" scope="row">Nama Mahasiswa</th>  
-    <td width="76%">Kurniawan As/td>  
+    <td width="76%">Kurniawan As</td>  
     </tr>  
     <tr>  
     <th scope="row">NIM</th>  
