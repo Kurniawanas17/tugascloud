@@ -83,12 +83,7 @@
      </td>       
      </tr>  
      <tr class="tbltitle">  
-     <td colspan="2">  
-     Tentang Saya  
-     </td>                                     
-     </tr>   
-     <tr class="tbltitle">  
-     <td colspan="2">  
+     <td colspan="2">    
      Kontak  
      </td>                                     
      </tr>  
